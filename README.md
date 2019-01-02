@@ -1,15 +1,15 @@
 # TinyCircuits TinyShield 433MHz radio (SI4432)
 # ASD2162 Rev3
 
-These are the design files for the TinyCircuits ASD2162 Rev3 PCB.  This is a TinyShield board that has a SI4432 433MHz radio transceiver and can communicate over a long distance.   
+The design files are located under design-files/ for the TinyCircuits ASD2162 Rev3 PCB.  This is a TinyShield board that has a SI4432 433MHz radio transceiver and can communicate over a long distance.   
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-433MHz-SI4432.html
+For more infomation on this, check out the product page at TinyCircuits.com:  https://tinycircuits.com/collections/communication/products/433mhz-long-range-radio-tinyshield
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
