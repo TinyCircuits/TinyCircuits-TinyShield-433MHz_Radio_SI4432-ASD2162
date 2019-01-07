@@ -1,16 +1,19 @@
-//-------------------------------------------------------------------------------
-//  TinyCircuits TinyScreen Robot Control Kit Example Sketch
-//  Last Updated 29 April 2015
-//  
-//  This demo uses a processor board, 433 Mhz radio, and motor x4 board to
-//  control a small tank steering/differential steering robot based on data
-//  received from the Robot Control Kit Transmitter example. It also sends back
-//  some basic telemetry data. The motor board's VM should be connected to a
-//  battery, and motors should be soldered to Motor2 and Motor4.
-//
-//  Written by Ben Rose, TinyCircuits http://Tiny-Circuits.com
-//
-//-------------------------------------------------------------------------------
+/*
+  TinyCircuits TinyScreen Robot Control Kit Example Sketch
+  
+  This demo uses a processor board, 433 Mhz radio, and motor x4 board to
+  control a small tank steering/differential steering robot based on data
+  received from the Robot Control Kit Transmitter example. It also sends back
+  some basic telemetry data. The motor board's VM should be connected to a
+  battery, and motors should be soldered to Motor2 and Motor4.
+
+  Written 29 April 2015
+  By Ben Rose
+  Modified 07 January 2019
+  By Hunter Hykes
+
+  https://TinyCircuits.com
+*/
 
 #include <Wire.h>
 #include <SPI.h>
