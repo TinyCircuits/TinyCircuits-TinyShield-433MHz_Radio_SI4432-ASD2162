@@ -1,3 +1,22 @@
+/*
+  TinyDuino Radio Transmitter TinyShield Example Sketch
+  
+  This example is to establish communications with another
+  radio of the same type. The other processor and radio TinyDuino
+  stack should have the RadioRX_example.ino Radio Receiver
+  TinyShield Example Sketch.
+
+  If using the 433MHz radio: set use433 to a 1 in line 24
+  If using the NRF24L01 radio: set use433 to a 0 in line 24
+  
+  Written 04 June 2019
+  By Hunter Hykes
+  Modified 
+  By 
+  
+  https://TinyCircuits.com
+*/
+
 #include <SPI.h>
 #include <RH_RF22.h>
 #include <RH_NRF24.h>
